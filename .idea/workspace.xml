@@ -4,19 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5b36b747-958c-4716-a505-1cf3084c6698" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/laba3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/alikina/geometry/Line.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/alikina/geometry/Point.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/alikina/geometry/Point3D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/alikina/geometry/PointBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/alikina/main/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/alikina/numbers/ImmutableList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/alikina/numbers/SumCalculator.java" afterDir="false" />
+    <list default="true" id="5b36b747-958c-4716-a505-1cf3084c6698" name="Changes" comment="ver1">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/alikina/geometry/Line.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/alikina/geometry/Line.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/alikina/geometry/Point.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/alikina/geometry/Point.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/alikina/geometry/Point3D.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/alikina/geometry/Point3D.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/alikina/geometry/PointBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/alikina/geometry/PointBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/alikina/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/alikina/main/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/alikina/numbers/ImmutableList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/alikina/numbers/ImmutableList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/alikina/numbers/SumCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/alikina/numbers/SumCalculator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,9 +29,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Anna-a-a&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Anna-a-a/laba3.git&quot;,
+    &quot;accountId&quot;: &quot;78583e93-db46-4ed6-8389-d204d7a8eeb6&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2oQK1aLtYJeWCgUGkYzi0JSfZre" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -48,7 +56,9 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "/Users/annaalikina/IdeaProjects/laba3/src/Main.java"
+    "last_opened_file_path": "/Users/annaalikina/IdeaProjects/laba3",
+    "onboarding.tips.debug.path": "/Users/annaalikina/IdeaProjects/laba3/src/Main.java",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -85,6 +95,15 @@
       <option name="presentableId" value="Default" />
       <updated>1730796148188</updated>
     </task>
+    <task id="LOCAL-00001" summary="ver1">
+      <option name="closed" value="true" />
+      <created>1731395204082</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1731395204082</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -109,6 +128,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ver1" />
+    <option name="LAST_COMMIT_MESSAGE" value="ver1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
